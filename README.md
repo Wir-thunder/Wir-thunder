@@ -1,4 +1,4 @@
-# Hi there, I'm Wir-thunder 👋
+# Hi there, I'm Wir-thunder 
 
 ### Python Developer | Automation, Data Processing & Integrations
 
